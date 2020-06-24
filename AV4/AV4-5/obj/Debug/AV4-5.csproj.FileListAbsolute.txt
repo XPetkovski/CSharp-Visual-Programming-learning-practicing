@@ -1,0 +1,10 @@
+C:\Users\Hristijan\Documents\C#\AV4-5\AV4-5\bin\Debug\AV4-5.exe.config
+C:\Users\Hristijan\Documents\C#\AV4-5\AV4-5\bin\Debug\AV4-5.exe
+C:\Users\Hristijan\Documents\C#\AV4-5\AV4-5\bin\Debug\AV4-5.pdb
+C:\Users\Hristijan\Documents\C#\AV4-5\AV4-5\obj\Debug\AV4-5.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\AV4-5\AV4-5\obj\Debug\AV4_5.Form1.resources
+C:\Users\Hristijan\Documents\C#\AV4-5\AV4-5\obj\Debug\AV4_5.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\AV4-5\AV4-5\obj\Debug\AV4-5.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\AV4-5\AV4-5\obj\Debug\AV4-5.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\AV4-5\AV4-5\obj\Debug\AV4-5.exe
+C:\Users\Hristijan\Documents\C#\AV4-5\AV4-5\obj\Debug\AV4-5.pdb

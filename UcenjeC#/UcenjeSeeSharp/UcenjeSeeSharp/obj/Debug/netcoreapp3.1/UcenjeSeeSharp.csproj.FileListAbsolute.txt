@@ -1,0 +1,13 @@
+C:\Users\Hristijan\Documents\C#\UcenjeC#\UcenjeSeeSharp\UcenjeSeeSharp\bin\Debug\netcoreapp3.1\UcenjeSeeSharp.exe
+C:\Users\Hristijan\Documents\C#\UcenjeC#\UcenjeSeeSharp\UcenjeSeeSharp\bin\Debug\netcoreapp3.1\UcenjeSeeSharp.deps.json
+C:\Users\Hristijan\Documents\C#\UcenjeC#\UcenjeSeeSharp\UcenjeSeeSharp\bin\Debug\netcoreapp3.1\UcenjeSeeSharp.runtimeconfig.json
+C:\Users\Hristijan\Documents\C#\UcenjeC#\UcenjeSeeSharp\UcenjeSeeSharp\bin\Debug\netcoreapp3.1\UcenjeSeeSharp.runtimeconfig.dev.json
+C:\Users\Hristijan\Documents\C#\UcenjeC#\UcenjeSeeSharp\UcenjeSeeSharp\bin\Debug\netcoreapp3.1\UcenjeSeeSharp.dll
+C:\Users\Hristijan\Documents\C#\UcenjeC#\UcenjeSeeSharp\UcenjeSeeSharp\bin\Debug\netcoreapp3.1\UcenjeSeeSharp.pdb
+C:\Users\Hristijan\Documents\C#\UcenjeC#\UcenjeSeeSharp\UcenjeSeeSharp\obj\Debug\netcoreapp3.1\UcenjeSeeSharp.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\UcenjeC#\UcenjeSeeSharp\UcenjeSeeSharp\obj\Debug\netcoreapp3.1\UcenjeSeeSharp.AssemblyInfoInputs.cache
+C:\Users\Hristijan\Documents\C#\UcenjeC#\UcenjeSeeSharp\UcenjeSeeSharp\obj\Debug\netcoreapp3.1\UcenjeSeeSharp.AssemblyInfo.cs
+C:\Users\Hristijan\Documents\C#\UcenjeC#\UcenjeSeeSharp\UcenjeSeeSharp\obj\Debug\netcoreapp3.1\UcenjeSeeSharp.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\UcenjeC#\UcenjeSeeSharp\UcenjeSeeSharp\obj\Debug\netcoreapp3.1\UcenjeSeeSharp.dll
+C:\Users\Hristijan\Documents\C#\UcenjeC#\UcenjeSeeSharp\UcenjeSeeSharp\obj\Debug\netcoreapp3.1\UcenjeSeeSharp.pdb
+C:\Users\Hristijan\Documents\C#\UcenjeC#\UcenjeSeeSharp\UcenjeSeeSharp\obj\Debug\netcoreapp3.1\UcenjeSeeSharp.genruntimeconfig.cache

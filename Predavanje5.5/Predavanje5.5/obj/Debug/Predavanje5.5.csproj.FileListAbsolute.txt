@@ -1,0 +1,11 @@
+C:\Users\Hristijan\Documents\C#\Predavanje5.5\Predavanje5.5\obj\Debug\Predavanje5.5.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\Predavanje5.5\Predavanje5.5\obj\Debug\Predavanje5._5.Form1.resources
+C:\Users\Hristijan\Documents\C#\Predavanje5.5\Predavanje5.5\obj\Debug\Predavanje5._5.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\Predavanje5.5\Predavanje5.5\obj\Debug\Predavanje5.5.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\Predavanje5.5\Predavanje5.5\obj\Debug\Predavanje5.5.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\Predavanje5.5\Predavanje5.5\bin\Debug\Predavanje5.5.exe.config
+C:\Users\Hristijan\Documents\C#\Predavanje5.5\Predavanje5.5\bin\Debug\Predavanje5.5.exe
+C:\Users\Hristijan\Documents\C#\Predavanje5.5\Predavanje5.5\bin\Debug\Predavanje5.5.pdb
+C:\Users\Hristijan\Documents\C#\Predavanje5.5\Predavanje5.5\obj\Debug\Predavanje5.5.exe
+C:\Users\Hristijan\Documents\C#\Predavanje5.5\Predavanje5.5\obj\Debug\Predavanje5.5.pdb
+C:\Users\Hristijan\Documents\C#\Predavanje5.5\Predavanje5.5\obj\Debug\Predavanje5._5.ControllerForm.resources

@@ -1,0 +1,11 @@
+C:\Users\Hristijan\Documents\C#\WinForm3\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Hristijan\Documents\C#\WinForm3\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Hristijan\Documents\C#\WinForm3\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Hristijan\Documents\C#\WinForm3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\WinForm3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\WinForm3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\WinForm3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\WinForm3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Hristijan\Documents\C#\WinForm3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Hristijan\Documents\C#\WinForm3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.KOPCE.resources
+C:\Users\Hristijan\Documents\C#\WinForm3\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormUslovi.resources

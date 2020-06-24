@@ -1,0 +1,11 @@
+C:\Users\Hristijan\Documents\C#\AV5\AV5\obj\Debug\AV5.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\AV5\AV5\obj\Debug\AV5.Form1.resources
+C:\Users\Hristijan\Documents\C#\AV5\AV5\obj\Debug\AV5.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\AV5\AV5\obj\Debug\AV5.TeamForm.resources
+C:\Users\Hristijan\Documents\C#\AV5\AV5\obj\Debug\AV5.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\AV5\AV5\obj\Debug\AV5.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\AV5\AV5\bin\Debug\AV5.exe.config
+C:\Users\Hristijan\Documents\C#\AV5\AV5\bin\Debug\AV5.exe
+C:\Users\Hristijan\Documents\C#\AV5\AV5\bin\Debug\AV5.pdb
+C:\Users\Hristijan\Documents\C#\AV5\AV5\obj\Debug\AV5.exe
+C:\Users\Hristijan\Documents\C#\AV5\AV5\obj\Debug\AV5.pdb

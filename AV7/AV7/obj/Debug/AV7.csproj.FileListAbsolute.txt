@@ -1,0 +1,10 @@
+C:\Users\Hristijan\Documents\C#\AV7\AV7\bin\Debug\AV7.exe.config
+C:\Users\Hristijan\Documents\C#\AV7\AV7\bin\Debug\AV7.exe
+C:\Users\Hristijan\Documents\C#\AV7\AV7\bin\Debug\AV7.pdb
+C:\Users\Hristijan\Documents\C#\AV7\AV7\obj\Debug\AV7.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\AV7\AV7\obj\Debug\AV7.Form1.resources
+C:\Users\Hristijan\Documents\C#\AV7\AV7\obj\Debug\AV7.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\AV7\AV7\obj\Debug\AV7.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\AV7\AV7\obj\Debug\AV7.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\AV7\AV7\obj\Debug\AV7.exe
+C:\Users\Hristijan\Documents\C#\AV7\AV7\obj\Debug\AV7.pdb
