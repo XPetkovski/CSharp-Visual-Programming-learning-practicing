@@ -1,0 +1,12 @@
+C:\Users\Hristijan\Documents\C#\Predavanje6\Predavanje6\bin\Debug\Predavanje6.exe.config
+C:\Users\Hristijan\Documents\C#\Predavanje6\Predavanje6\bin\Debug\Predavanje6.exe
+C:\Users\Hristijan\Documents\C#\Predavanje6\Predavanje6\bin\Debug\Predavanje6.pdb
+C:\Users\Hristijan\Documents\C#\Predavanje6\Predavanje6\obj\Debug\Predavanje6.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\Predavanje6\Predavanje6\obj\Debug\Predavanje6.Form1.resources
+C:\Users\Hristijan\Documents\C#\Predavanje6\Predavanje6\obj\Debug\Predavanje6.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\Predavanje6\Predavanje6\obj\Debug\Predavanje6.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\Predavanje6\Predavanje6\obj\Debug\Predavanje6.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\Predavanje6\Predavanje6\obj\Debug\Predavanje6.exe
+C:\Users\Hristijan\Documents\C#\Predavanje6\Predavanje6\obj\Debug\Predavanje6.pdb
+C:\Users\Hristijan\Documents\C#\Predavanje6\Predavanje6\obj\Debug\Predavanje6.FormBillView.resources
+C:\Users\Hristijan\Documents\C#\Predavanje6\Predavanje6\obj\Debug\Predavanje6.FormCoinView.resources

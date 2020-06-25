@@ -1,0 +1,5 @@
+C:\Users\Hristijan\Documents\C#\Ranjeet_MindBlowing_memory_game\Ranjeet_MindBlowing_memory_game\obj\Debug\Ranjeet_MindBlowing_memory_game.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\Ranjeet_MindBlowing_memory_game\Ranjeet_MindBlowing_memory_game\obj\Debug\Ranjeet_MindBlowing_memory_game.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\Ranjeet_MindBlowing_memory_game\Ranjeet_MindBlowing_memory_game\obj\Debug\Ranjeet_MindBlowing_memory_game.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\Ranjeet_MindBlowing_memory_game\Ranjeet_MindBlowing_memory_game\obj\Debug\Ranjeet_MindBlowing_memory_game.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\Ranjeet_MindBlowing_memory_game\Ranjeet_MindBlowing_memory_game\obj\Debug\Ranjeet_MindBlowing_memory_game.memoryGame.resources
