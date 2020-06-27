@@ -1,0 +1,10 @@
+C:\Users\Hristijan\Documents\C#\AV8\AV8\bin\Debug\AV8.exe.config
+C:\Users\Hristijan\Documents\C#\AV8\AV8\bin\Debug\AV8.exe
+C:\Users\Hristijan\Documents\C#\AV8\AV8\bin\Debug\AV8.pdb
+C:\Users\Hristijan\Documents\C#\AV8\AV8\obj\Debug\AV8.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\AV8\AV8\obj\Debug\AV8.Form1.resources
+C:\Users\Hristijan\Documents\C#\AV8\AV8\obj\Debug\AV8.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\AV8\AV8\obj\Debug\AV8.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\AV8\AV8\obj\Debug\AV8.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\AV8\AV8\obj\Debug\AV8.exe
+C:\Users\Hristijan\Documents\C#\AV8\AV8\obj\Debug\AV8.pdb

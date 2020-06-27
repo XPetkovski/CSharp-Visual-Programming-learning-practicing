@@ -1,0 +1,11 @@
+C:\Users\Hristijan\Documents\C#\Predavanje8\Predavanje8\bin\Debug\Predavanje8.exe.config
+C:\Users\Hristijan\Documents\C#\Predavanje8\Predavanje8\bin\Debug\Predavanje8.exe
+C:\Users\Hristijan\Documents\C#\Predavanje8\Predavanje8\bin\Debug\Predavanje8.pdb
+C:\Users\Hristijan\Documents\C#\Predavanje8\Predavanje8\obj\Debug\Predavanje8.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\Predavanje8\Predavanje8\obj\Debug\Predavanje8.Form1.resources
+C:\Users\Hristijan\Documents\C#\Predavanje8\Predavanje8\obj\Debug\Predavanje8.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\Predavanje8\Predavanje8\obj\Debug\Predavanje8.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\Predavanje8\Predavanje8\obj\Debug\Predavanje8.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\Predavanje8\Predavanje8\obj\Debug\Predavanje8.exe
+C:\Users\Hristijan\Documents\C#\Predavanje8\Predavanje8\obj\Debug\Predavanje8.pdb
+C:\Users\Hristijan\Documents\C#\Predavanje8\Predavanje8\obj\Debug\Predavanje8.Form2.resources
