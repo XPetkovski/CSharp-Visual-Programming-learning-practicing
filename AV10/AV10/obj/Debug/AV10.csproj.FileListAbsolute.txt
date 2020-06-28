@@ -1,0 +1,10 @@
+C:\Users\Hristijan\Documents\C#\AV10\AV10\bin\Debug\AV10.exe.config
+C:\Users\Hristijan\Documents\C#\AV10\AV10\bin\Debug\AV10.exe
+C:\Users\Hristijan\Documents\C#\AV10\AV10\bin\Debug\AV10.pdb
+C:\Users\Hristijan\Documents\C#\AV10\AV10\obj\Debug\AV10.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\AV10\AV10\obj\Debug\AV10.Form1.resources
+C:\Users\Hristijan\Documents\C#\AV10\AV10\obj\Debug\AV10.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\AV10\AV10\obj\Debug\AV10.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\AV10\AV10\obj\Debug\AV10.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\AV10\AV10\obj\Debug\AV10.exe
+C:\Users\Hristijan\Documents\C#\AV10\AV10\obj\Debug\AV10.pdb
