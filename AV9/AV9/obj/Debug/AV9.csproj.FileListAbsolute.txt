@@ -1,0 +1,10 @@
+C:\Users\Hristijan\Documents\C#\AV9\AV9\bin\Debug\AV9.exe.config
+C:\Users\Hristijan\Documents\C#\AV9\AV9\bin\Debug\AV9.exe
+C:\Users\Hristijan\Documents\C#\AV9\AV9\bin\Debug\AV9.pdb
+C:\Users\Hristijan\Documents\C#\AV9\AV9\obj\Debug\AV9.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\AV9\AV9\obj\Debug\AV9.Form1.resources
+C:\Users\Hristijan\Documents\C#\AV9\AV9\obj\Debug\AV9.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\AV9\AV9\obj\Debug\AV9.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\AV9\AV9\obj\Debug\AV9.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\AV9\AV9\obj\Debug\AV9.exe
+C:\Users\Hristijan\Documents\C#\AV9\AV9\obj\Debug\AV9.pdb
