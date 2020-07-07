@@ -1,0 +1,11 @@
+C:\Users\Hristijan\Documents\C#\PotrosuvackaKosnicka\PotrosuvackaKosnicka\bin\Debug\PotrosuvackaKosnicka.exe.config
+C:\Users\Hristijan\Documents\C#\PotrosuvackaKosnicka\PotrosuvackaKosnicka\bin\Debug\PotrosuvackaKosnicka.exe
+C:\Users\Hristijan\Documents\C#\PotrosuvackaKosnicka\PotrosuvackaKosnicka\bin\Debug\PotrosuvackaKosnicka.pdb
+C:\Users\Hristijan\Documents\C#\PotrosuvackaKosnicka\PotrosuvackaKosnicka\obj\Debug\PotrosuvackaKosnicka.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\PotrosuvackaKosnicka\PotrosuvackaKosnicka\obj\Debug\PotrosuvackaKosnicka.Form1.resources
+C:\Users\Hristijan\Documents\C#\PotrosuvackaKosnicka\PotrosuvackaKosnicka\obj\Debug\PotrosuvackaKosnicka.NewProduct.resources
+C:\Users\Hristijan\Documents\C#\PotrosuvackaKosnicka\PotrosuvackaKosnicka\obj\Debug\PotrosuvackaKosnicka.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\PotrosuvackaKosnicka\PotrosuvackaKosnicka\obj\Debug\PotrosuvackaKosnicka.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\PotrosuvackaKosnicka\PotrosuvackaKosnicka\obj\Debug\PotrosuvackaKosnicka.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\PotrosuvackaKosnicka\PotrosuvackaKosnicka\obj\Debug\PotrosuvackaKosnicka.exe
+C:\Users\Hristijan\Documents\C#\PotrosuvackaKosnicka\PotrosuvackaKosnicka\obj\Debug\PotrosuvackaKosnicka.pdb
