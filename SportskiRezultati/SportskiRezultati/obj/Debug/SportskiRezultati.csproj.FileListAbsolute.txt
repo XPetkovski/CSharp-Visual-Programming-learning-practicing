@@ -1,0 +1,12 @@
+C:\Users\Hristijan\Documents\C#\SportskiRezultati\SportskiRezultati\obj\Debug\SportskiRezultati.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\SportskiRezultati\SportskiRezultati\obj\Debug\SportskiRezultati.AddNewGame.resources
+C:\Users\Hristijan\Documents\C#\SportskiRezultati\SportskiRezultati\obj\Debug\SportskiRezultati.Form1.resources
+C:\Users\Hristijan\Documents\C#\SportskiRezultati\SportskiRezultati\obj\Debug\SportskiRezultati.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\SportskiRezultati\SportskiRezultati\obj\Debug\SportskiRezultati.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\SportskiRezultati\SportskiRezultati\obj\Debug\SportskiRezultati.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\SportskiRezultati\SportskiRezultati\bin\Debug\SportskiRezultati.exe.config
+C:\Users\Hristijan\Documents\C#\SportskiRezultati\SportskiRezultati\bin\Debug\SportskiRezultati.exe
+C:\Users\Hristijan\Documents\C#\SportskiRezultati\SportskiRezultati\bin\Debug\SportskiRezultati.pdb
+C:\Users\Hristijan\Documents\C#\SportskiRezultati\SportskiRezultati\obj\Debug\SportskiRezultati.AddGoalscorer.resources
+C:\Users\Hristijan\Documents\C#\SportskiRezultati\SportskiRezultati\obj\Debug\SportskiRezultati.exe
+C:\Users\Hristijan\Documents\C#\SportskiRezultati\SportskiRezultati\obj\Debug\SportskiRezultati.pdb

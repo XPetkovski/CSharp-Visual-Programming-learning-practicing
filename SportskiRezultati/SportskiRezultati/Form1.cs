@@ -16,5 +16,16 @@ namespace SportskiRezultati
         {
             InitializeComponent();
         }
+
+        private void btnAddGame_Click(object sender, EventArgs e)
+        {
+            AddNewGame novaigra = new AddNewGame();
+            DialogResult dialogResult = novaigra.ShowDialog();
+        }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

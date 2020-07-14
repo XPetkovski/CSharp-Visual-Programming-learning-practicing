@@ -1,0 +1,12 @@
+C:\Users\Hristijan\Documents\C#\Busses\Busses\obj\Debug\Busses.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\Busses\Busses\obj\Debug\Busses.Form1.resources
+C:\Users\Hristijan\Documents\C#\Busses\Busses\obj\Debug\Busses.NewBus.resources
+C:\Users\Hristijan\Documents\C#\Busses\Busses\obj\Debug\Busses.NewLine.resources
+C:\Users\Hristijan\Documents\C#\Busses\Busses\obj\Debug\Busses.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\Busses\Busses\obj\Debug\Busses.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\Busses\Busses\obj\Debug\Busses.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\Busses\Busses\bin\Debug\Busses.exe.config
+C:\Users\Hristijan\Documents\C#\Busses\Busses\bin\Debug\Busses.exe
+C:\Users\Hristijan\Documents\C#\Busses\Busses\bin\Debug\Busses.pdb
+C:\Users\Hristijan\Documents\C#\Busses\Busses\obj\Debug\Busses.exe
+C:\Users\Hristijan\Documents\C#\Busses\Busses\obj\Debug\Busses.pdb

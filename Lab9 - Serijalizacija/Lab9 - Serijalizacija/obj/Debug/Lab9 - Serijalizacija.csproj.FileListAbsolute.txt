@@ -1,0 +1,10 @@
+C:\Users\Hristijan\Documents\C#\Lab9 - Serijalizacija\Lab9 - Serijalizacija\bin\Debug\Lab9 - Serijalizacija.exe.config
+C:\Users\Hristijan\Documents\C#\Lab9 - Serijalizacija\Lab9 - Serijalizacija\bin\Debug\Lab9 - Serijalizacija.exe
+C:\Users\Hristijan\Documents\C#\Lab9 - Serijalizacija\Lab9 - Serijalizacija\bin\Debug\Lab9 - Serijalizacija.pdb
+C:\Users\Hristijan\Documents\C#\Lab9 - Serijalizacija\Lab9 - Serijalizacija\obj\Debug\Lab9 - Serijalizacija.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\Lab9 - Serijalizacija\Lab9 - Serijalizacija\obj\Debug\Lab9___Serijalizacija.Form1.resources
+C:\Users\Hristijan\Documents\C#\Lab9 - Serijalizacija\Lab9 - Serijalizacija\obj\Debug\Lab9___Serijalizacija.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\Lab9 - Serijalizacija\Lab9 - Serijalizacija\obj\Debug\Lab9 - Serijalizacija.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\Lab9 - Serijalizacija\Lab9 - Serijalizacija\obj\Debug\Lab9 - Serijalizacija.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\Lab9 - Serijalizacija\Lab9 - Serijalizacija\obj\Debug\Lab9 - Serijalizacija.exe
+C:\Users\Hristijan\Documents\C#\Lab9 - Serijalizacija\Lab9 - Serijalizacija\obj\Debug\Lab9 - Serijalizacija.pdb

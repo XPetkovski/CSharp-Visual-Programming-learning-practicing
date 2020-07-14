@@ -1,0 +1,10 @@
+C:\Users\Hristijan\Documents\C#\BouncingBall\BouncingBall\bin\Debug\BouncingBall.exe.config
+C:\Users\Hristijan\Documents\C#\BouncingBall\BouncingBall\bin\Debug\BouncingBall.exe
+C:\Users\Hristijan\Documents\C#\BouncingBall\BouncingBall\bin\Debug\BouncingBall.pdb
+C:\Users\Hristijan\Documents\C#\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\BouncingBall\BouncingBall\obj\Debug\BouncingBall.Form1.resources
+C:\Users\Hristijan\Documents\C#\BouncingBall\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\BouncingBall\BouncingBall\obj\Debug\BouncingBall.exe
+C:\Users\Hristijan\Documents\C#\BouncingBall\BouncingBall\obj\Debug\BouncingBall.pdb

@@ -1,0 +1,10 @@
+C:\Users\Hristijan\Documents\C#\MovingBall\MovingBall\bin\Debug\MovingBall.exe.config
+C:\Users\Hristijan\Documents\C#\MovingBall\MovingBall\bin\Debug\MovingBall.exe
+C:\Users\Hristijan\Documents\C#\MovingBall\MovingBall\bin\Debug\MovingBall.pdb
+C:\Users\Hristijan\Documents\C#\MovingBall\MovingBall\obj\Debug\MovingBall.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\MovingBall\MovingBall\obj\Debug\MovingBall.Form1.resources
+C:\Users\Hristijan\Documents\C#\MovingBall\MovingBall\obj\Debug\MovingBall.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\MovingBall\MovingBall\obj\Debug\MovingBall.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\MovingBall\MovingBall\obj\Debug\MovingBall.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\MovingBall\MovingBall\obj\Debug\MovingBall.exe
+C:\Users\Hristijan\Documents\C#\MovingBall\MovingBall\obj\Debug\MovingBall.pdb
