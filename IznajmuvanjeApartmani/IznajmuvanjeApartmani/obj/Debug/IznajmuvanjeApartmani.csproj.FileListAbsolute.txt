@@ -1,0 +1,12 @@
+C:\Users\Hristijan\Documents\C#\IznajmuvanjeApartmani\IznajmuvanjeApartmani\obj\Debug\IznajmuvanjeApartmani.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\IznajmuvanjeApartmani\IznajmuvanjeApartmani\obj\Debug\IznajmuvanjeApartmani.DodadiApartman.resources
+C:\Users\Hristijan\Documents\C#\IznajmuvanjeApartmani\IznajmuvanjeApartmani\obj\Debug\IznajmuvanjeApartmani.DodadiGrad.resources
+C:\Users\Hristijan\Documents\C#\IznajmuvanjeApartmani\IznajmuvanjeApartmani\obj\Debug\IznajmuvanjeApartmani.Form1.resources
+C:\Users\Hristijan\Documents\C#\IznajmuvanjeApartmani\IznajmuvanjeApartmani\obj\Debug\IznajmuvanjeApartmani.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\IznajmuvanjeApartmani\IznajmuvanjeApartmani\obj\Debug\IznajmuvanjeApartmani.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\IznajmuvanjeApartmani\IznajmuvanjeApartmani\obj\Debug\IznajmuvanjeApartmani.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\IznajmuvanjeApartmani\IznajmuvanjeApartmani\bin\Debug\IznajmuvanjeApartmani.exe.config
+C:\Users\Hristijan\Documents\C#\IznajmuvanjeApartmani\IznajmuvanjeApartmani\bin\Debug\IznajmuvanjeApartmani.exe
+C:\Users\Hristijan\Documents\C#\IznajmuvanjeApartmani\IznajmuvanjeApartmani\bin\Debug\IznajmuvanjeApartmani.pdb
+C:\Users\Hristijan\Documents\C#\IznajmuvanjeApartmani\IznajmuvanjeApartmani\obj\Debug\IznajmuvanjeApartmani.exe
+C:\Users\Hristijan\Documents\C#\IznajmuvanjeApartmani\IznajmuvanjeApartmani\obj\Debug\IznajmuvanjeApartmani.pdb

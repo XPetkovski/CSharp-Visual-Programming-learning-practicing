@@ -1,0 +1,10 @@
+C:\Users\Hristijan\Documents\C#\SlucajniFormi\SlucajniFormi\obj\Debug\SlucajniFormi.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\SlucajniFormi\SlucajniFormi\obj\Debug\SlucajniFormi.Form1.resources
+C:\Users\Hristijan\Documents\C#\SlucajniFormi\SlucajniFormi\obj\Debug\SlucajniFormi.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\SlucajniFormi\SlucajniFormi\obj\Debug\SlucajniFormi.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\SlucajniFormi\SlucajniFormi\obj\Debug\SlucajniFormi.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\SlucajniFormi\SlucajniFormi\bin\Debug\SlucajniFormi.exe.config
+C:\Users\Hristijan\Documents\C#\SlucajniFormi\SlucajniFormi\bin\Debug\SlucajniFormi.exe
+C:\Users\Hristijan\Documents\C#\SlucajniFormi\SlucajniFormi\bin\Debug\SlucajniFormi.pdb
+C:\Users\Hristijan\Documents\C#\SlucajniFormi\SlucajniFormi\obj\Debug\SlucajniFormi.exe
+C:\Users\Hristijan\Documents\C#\SlucajniFormi\SlucajniFormi\obj\Debug\SlucajniFormi.pdb

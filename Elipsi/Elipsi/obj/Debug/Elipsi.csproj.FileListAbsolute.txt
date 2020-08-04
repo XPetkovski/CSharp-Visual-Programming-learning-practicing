@@ -1,0 +1,10 @@
+C:\Users\Hristijan\Documents\C#\Elipsi\Elipsi\bin\Debug\Elipsi.exe.config
+C:\Users\Hristijan\Documents\C#\Elipsi\Elipsi\bin\Debug\Elipsi.exe
+C:\Users\Hristijan\Documents\C#\Elipsi\Elipsi\bin\Debug\Elipsi.pdb
+C:\Users\Hristijan\Documents\C#\Elipsi\Elipsi\obj\Debug\Elipsi.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\Elipsi\Elipsi\obj\Debug\Elipsi.Form1.resources
+C:\Users\Hristijan\Documents\C#\Elipsi\Elipsi\obj\Debug\Elipsi.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\Elipsi\Elipsi\obj\Debug\Elipsi.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\Elipsi\Elipsi\obj\Debug\Elipsi.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\Elipsi\Elipsi\obj\Debug\Elipsi.exe
+C:\Users\Hristijan\Documents\C#\Elipsi\Elipsi\obj\Debug\Elipsi.pdb
