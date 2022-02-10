@@ -21,16 +21,16 @@ namespace IznajmuvanjeApartmani
             //GRad = new Grad();
         }
 
-        private void btnAddCity_Click(object sender, EventArgs e)
+        public void btnAddCity_Click(object sender, EventArgs e)
         {
             //DodadiGrad grad = new DodadiGrad();
             DodadiGrad grad = new DodadiGrad();
             DialogResult dialogResult = grad.ShowDialog();
             if(dialogResult == DialogResult.OK)
             {
-                lbCity.Items.Add(grad);
+                lbCity.Items.Add(grad.grad);
             }
-
+            UpdateApartmani();
         }
 
         private void btnDelete_Click(object sender, EventArgs e)
@@ -39,6 +39,8 @@ namespace IznajmuvanjeApartmani
                "Message", MessageBoxButtons.YesNo) == DialogResult.Yes)
             {
                 lbCity.Items.RemoveAt(lbCity.SelectedIndex);
+                tbNajevtin.Text = "";
+                lbApartmani.Items.Clear();
             }
 
         }
@@ -50,12 +52,42 @@ namespace IznajmuvanjeApartmani
             DialogResult dialogResult = apartman.ShowDialog();
             if (dialogResult == DialogResult.OK)
             {
-                lbApartmani.Items.Add(apartman);
+                lbApartmani.Items.Add(apartman.apartman);
             }
             else
             {
                 dialogResult = DialogResult.Cancel;
             }
+        }
+
+        private void UpdateApartmani()
+        {
+            if(lbCity.SelectedIndex != -1)
+            {
+                lbApartmani.Items.Clear();
+                tbNajevtin.Text = "";
+                int najvetin = 1000000;
+                Apartman najevtinApartman = null;
+                Grad g = (Grad)lbCity.SelectedItem;
+                foreach(Apartman a in g.apartmani)
+                {
+                    lbApartmani.Items.Add(a);
+                    if(a.Cena < najvetin)
+                    {
+                        najvetin = a.Cena;
+                        najevtinApartman = a;
+                    }
+                }
+                if(najevtinApartman != null)
+                {
+                    tbNajevtin.Text = najevtinApartman.ToString();
+                }
+            }
+        }
+
+        private void lbCity_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            UpdateApartmani();
         }
     }
 }

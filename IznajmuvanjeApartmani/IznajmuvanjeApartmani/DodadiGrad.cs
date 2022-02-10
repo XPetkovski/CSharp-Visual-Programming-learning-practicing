@@ -29,20 +29,29 @@ namespace IznajmuvanjeApartmani
             else
             {
                 errorProvider1.SetError(tbIme, null);
+                e.Cancel = false;
             }
         }
 
         private void textBox2_Validating(object sender, CancelEventArgs e)
         {
-            if(tbPostal.Text.Trim().Length != 4)
+            if (tbPostal.Text.Trim().Length == 0)
             {
                 e.Cancel = true;
-                errorProvider1.SetError(tbPostal, "Внесете 4 бројки за поштенски број!");
+                errorProvider1.SetError(tbIme, "Внесете поштенски број!");
             }
             else
             {
-                errorProvider1.SetError(tbPostal, null);
-            }
+                if (tbPostal.Text.Length > 0 && tbPostal.Text.Length != 4)
+                {
+                    e.Cancel = true;
+                    errorProvider1.SetError(tbPostal, "Внесете 4 бројки за поштенски број!");
+                }
+                else
+                {
+                    errorProvider1.SetError(tbPostal, null);
+                }
+            }      
         }
 
         private void btnAdd_Click(object sender, EventArgs e)

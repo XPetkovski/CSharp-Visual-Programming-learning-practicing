@@ -26,5 +26,10 @@ namespace Lab9___Serijalizacija
             circle.FillEllipse(br, 50, 50, 200, 200);
             circle.Dispose();
         }
+
+        private void saveToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -1,0 +1,4 @@
+C:\Users\Hristijan\Documents\C#\Apartmani\Apartmani\obj\Debug\Apartmani.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\Apartmani\Apartmani\obj\Debug\Apartmani.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\Apartmani\Apartmani\obj\Debug\Apartmani.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\Apartmani\Apartmani\obj\Debug\Apartmani.csproj.CoreCompileInputs.cache

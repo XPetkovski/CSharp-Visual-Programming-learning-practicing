@@ -22,12 +22,13 @@ namespace IznajmuvanjeApartmani
         private void btnAdd_Click(object sender, EventArgs e)
         {
             //Form1 f = Parent as Form1;
-            apartman = new Apartman();
+            apartman = new Apartman(tbAdresa.Text, (int)nudCena.Value);
+            DialogResult = DialogResult.OK;
             //grad.cityName = tbIme.Text;
             //grad.postalCode = tbPostal.Text;
             //DialogResult = System.Windows.Forms.DialogResult.OK; 
 
-            if (tbAdresa != null && !tbAdresa.Equals("") && nudCena != null && !nudCena.Equals(""))
+            /*if (tbAdresa != null && !tbAdresa.Equals("") && nudCena != null && !nudCena.Equals(""))
             {
                 apartman.Adresa = tbAdresa.Text;
                 apartman.Cena = nudCena.Text;
@@ -36,7 +37,7 @@ namespace IznajmuvanjeApartmani
             else
             {
                 DialogResult = DialogResult.Cancel;
-            }
+            } */
         }
 
         private void btnCancel_Click(object sender, EventArgs e)

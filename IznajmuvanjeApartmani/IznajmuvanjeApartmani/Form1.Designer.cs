@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.tbNajevtin = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.lbApartmani = new System.Windows.Forms.ListBox();
             this.Gradovi = new System.Windows.Forms.GroupBox();
@@ -43,7 +43,7 @@
             // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.textBox1);
+            this.groupBox2.Controls.Add(this.tbNajevtin);
             this.groupBox2.Controls.Add(this.label1);
             this.groupBox2.Controls.Add(this.lbApartmani);
             this.groupBox2.Location = new System.Drawing.Point(371, 12);
@@ -53,13 +53,13 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Apartmani";
             // 
-            // textBox1
+            // tbNajevtin
             // 
-            this.textBox1.Location = new System.Drawing.Point(19, 440);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(296, 20);
-            this.textBox1.TabIndex = 4;
+            this.tbNajevtin.Location = new System.Drawing.Point(19, 440);
+            this.tbNajevtin.Name = "tbNajevtin";
+            this.tbNajevtin.ReadOnly = true;
+            this.tbNajevtin.Size = new System.Drawing.Size(296, 20);
+            this.tbNajevtin.TabIndex = 4;
             // 
             // label1
             // 
@@ -93,16 +93,13 @@
             // 
             // lbCity
             // 
-            this.lbCity.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbCity.ForeColor = System.Drawing.SystemColors.MenuHighlight;
             this.lbCity.FormattingEnabled = true;
+            this.lbCity.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.lbCity.Location = new System.Drawing.Point(12, 42);
             this.lbCity.Name = "lbCity";
-            this.lbCity.ScrollAlwaysVisible = true;
-            this.lbCity.SelectionMode = System.Windows.Forms.SelectionMode.MultiSimple;
-            this.lbCity.Size = new System.Drawing.Size(313, 303);
-            this.lbCity.TabIndex = 9;
-            this.lbCity.Visible = false;
+            this.lbCity.Size = new System.Drawing.Size(323, 303);
+            this.lbCity.TabIndex = 5;
+            this.lbCity.SelectedIndexChanged += new System.EventHandler(this.lbCity_SelectedIndexChanged);
             // 
             // btnAddApartman
             // 
@@ -152,7 +149,7 @@
 
         #endregion
         private System.Windows.Forms.GroupBox groupBox2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox tbNajevtin;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ListBox lbApartmani;
         private System.Windows.Forms.GroupBox Gradovi;

@@ -1,0 +1,10 @@
+C:\Users\Hristijan\Documents\C#\BlackHoles\BlackHoles\obj\Debug\BlackHoles.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\BlackHoles\BlackHoles\obj\Debug\BlackHoles.Form1.resources
+C:\Users\Hristijan\Documents\C#\BlackHoles\BlackHoles\obj\Debug\BlackHoles.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\BlackHoles\BlackHoles\obj\Debug\BlackHoles.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\BlackHoles\BlackHoles\obj\Debug\BlackHoles.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\BlackHoles\BlackHoles\bin\Debug\BlackHoles.exe.config
+C:\Users\Hristijan\Documents\C#\BlackHoles\BlackHoles\bin\Debug\BlackHoles.exe
+C:\Users\Hristijan\Documents\C#\BlackHoles\BlackHoles\bin\Debug\BlackHoles.pdb
+C:\Users\Hristijan\Documents\C#\BlackHoles\BlackHoles\obj\Debug\BlackHoles.exe
+C:\Users\Hristijan\Documents\C#\BlackHoles\BlackHoles\obj\Debug\BlackHoles.pdb

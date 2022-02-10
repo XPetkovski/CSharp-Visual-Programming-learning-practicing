@@ -1,0 +1,12 @@
+C:\Users\Hristijan\Documents\C#\Studenti\Studenti\bin\Debug\Studenti.exe.config
+C:\Users\Hristijan\Documents\C#\Studenti\Studenti\bin\Debug\Studenti.exe
+C:\Users\Hristijan\Documents\C#\Studenti\Studenti\bin\Debug\Studenti.pdb
+C:\Users\Hristijan\Documents\C#\Studenti\Studenti\obj\Debug\Studenti.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\Studenti\Studenti\obj\Debug\Studenti.DodadiOcenka.resources
+C:\Users\Hristijan\Documents\C#\Studenti\Studenti\obj\Debug\Studenti.DodadiStudent.resources
+C:\Users\Hristijan\Documents\C#\Studenti\Studenti\obj\Debug\Studenti.Form1.resources
+C:\Users\Hristijan\Documents\C#\Studenti\Studenti\obj\Debug\Studenti.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\Studenti\Studenti\obj\Debug\Studenti.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\Studenti\Studenti\obj\Debug\Studenti.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Documents\C#\Studenti\Studenti\obj\Debug\Studenti.exe
+C:\Users\Hristijan\Documents\C#\Studenti\Studenti\obj\Debug\Studenti.pdb

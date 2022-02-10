@@ -1,0 +1,5 @@
+C:\Users\Hristijan\Documents\C#\CrniDupki\CrniDupki\obj\Debug\CrniDupki.csprojAssemblyReference.cache
+C:\Users\Hristijan\Documents\C#\CrniDupki\CrniDupki\obj\Debug\CrniDupki.Form1.resources
+C:\Users\Hristijan\Documents\C#\CrniDupki\CrniDupki\obj\Debug\CrniDupki.Properties.Resources.resources
+C:\Users\Hristijan\Documents\C#\CrniDupki\CrniDupki\obj\Debug\CrniDupki.csproj.GenerateResource.cache
+C:\Users\Hristijan\Documents\C#\CrniDupki\CrniDupki\obj\Debug\CrniDupki.csproj.CoreCompileInputs.cache

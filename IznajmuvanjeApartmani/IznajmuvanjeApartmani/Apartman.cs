@@ -9,9 +9,14 @@ namespace IznajmuvanjeApartmani
     public class Apartman
     {
         public string Adresa { get; set; }
-        public string Cena { get; set; }
-
-        public Apartman() { }
+        public int Cena { get; set; }
+        
+        public Apartman(string Adresa, int Cena) 
+        {
+            this.Adresa = Adresa;
+            this.Cena = Cena;
+            
+        }
 
         public override string ToString()
         {
